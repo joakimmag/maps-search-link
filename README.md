@@ -1,4 +1,4 @@
-# maps-search-link
+# Maps Search Link
 Adds a Maps link to the Google Search navigation bar.
 
 Made for, and tested with, [Userscripts for Safari](https://apps.apple.com/app/userscripts/id1463298887). May work with other similar extensions.
